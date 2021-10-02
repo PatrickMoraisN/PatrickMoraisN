@@ -1,29 +1,10 @@
-# Code is art.
+# Patrick Morais
 
-## :scroll: About
+---
+[![Linkedin Badge](https://img.shields.io/badge/-Patrick%20Morais-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-morais/)](https://www.linkedin.com/in/patrick-morais/)
+[![Gmail Badge](https://img.shields.io/badge/-ppternunes@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ppternunes@gmail.com)](mailto:ppternunes@gmail.com)
 
- I am a software developer who loves to create projects, practice and study various technologies. 
-
- I love to draw, that's why I compared coding to art. Drawing is a long process, it requires patience. We are always influenced by external references and we test our creativity at all times, and I love it.
-
-## :mortar_board: Academic
-
- Study is always a continuous process. Currently I am focused on studying the Next framework and Node with MySQL and MongoDB.
-
- There are several technologies in my repositories, but my main focus is on the entire ***React***, ***Node*** and ***Typescript*** ecosystem. 
-
-#### Current courses:
-- **Trybe** : Full Stack Developer.   
-One-year formation, Trybe's curriculum was designed in partnership with the largest 
-technology companies from Brazil and the world. 
-We study JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git,
-among other languages ​​and frameworks.    
-
-- **Senac** : Sistems Analyst.   
-Undergraduate degree focused on software engineering.
-We learned Java, PHP and React Native.
-
-## :fire: Stats
+ I am a software developer who loves to create projects, practice and study the best web development technologies. 
 
  <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickmoraisn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
