@@ -6,6 +6,17 @@
 
  I am a software developer who loves to create projects, practice and study the best web development technologies. 
 
+ ### Languages and Frameworks
+
+<img align="left" src="icons/javascript.svg" />
+<img align="left" src="icons/react.svg" />
+<img align="left" src="icons/typescript.svg" />
+<img align="left" width="40" src="icons/next-js.svg" />
+<img align="left" src="icons/nodejs.svg" />
+<br />
+<br />
+<br />
+
  <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickmoraisn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmoraisn&layout=compact&langs_count=7&theme=dracula"/>
