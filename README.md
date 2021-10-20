@@ -1,4 +1,4 @@
-<img src="icons/banner2.png">
+<img src="icons/banner3.png">
 <br />
 
 
@@ -12,9 +12,9 @@
  ### Languages and Frameworks
 
 <img align="left" src="https://img.shields.io/badge/Javascript-6633cc?style=for-the-badge&logo=javascript&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/React-6633cc?style=for-the-badge&logo=react&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/Next-6633cc?style=for-the-badge&logo=next.js&logoColor=white"><br /><br />
-<img align="left" src="https://img.shields.io/badge/typescript-6633cc?style=for-the-badge&logo=typescript&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/React-6633cc?style=for-the-badge&logo=react&logoColor=white"><br /><br />
+<img align="left" src="https://img.shields.io/badge/Next-6633cc?style=for-the-badge&logo=next.js&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/typescript-6633cc?style=for-the-badge&logo=typescript&logoColor=white"><br /><br />
 <img align="left" src="https://img.shields.io/badge/Node-6633cc?style=for-the-badge&logo=node.js&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/Express-6633cc?style=for-the-badge&logo=express&logoColor=white"><br /><br />
 <img align="left" src="https://img.shields.io/badge/mongodb-6633cc?style=for-the-badge&logo=mongodb&logoColor=white">
