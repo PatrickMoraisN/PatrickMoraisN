@@ -40,4 +40,4 @@ Education does not overcome.<br>
 The world is full of educated fools.<br><br>
 Persistence and determination alone are powerful.''*
 
-#### Connect with me at <img  src="https://img.shields.io/badge/linkedin-6633cc?style=for-the-badge&logo=linkedin&logoColor=white"> :black_heart:
+#### Connect with me at <img  src="https://img.shields.io/badge/linkedin-6633cc?style=for-the-badge&logo=linkedin&logoColor=white"> :purple_heart:
