@@ -1,7 +1,6 @@
 <img src="icons/banner3.png">
 <br />
 
-
 ---
 
 [![Linkedin Badge](https://img.shields.io/badge/-Patrick%20Morais-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-morais/)](https://www.linkedin.com/in/patrick-morais/)
@@ -20,8 +19,8 @@
 ![mongodb](https://img.shields.io/badge/mongodb-6633cc?style=for-the-badge&logo=mongodb&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-6633cc?style=for-the-badge&logo=mysql&logoColor=white)
 <br />
-<br />
-<br />
+
+---
 
  <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickmoraisn&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
@@ -39,5 +38,3 @@ Unrecognized genius is practically a cliché.<br>
 Education does not overcome.<br>
 The world is full of educated fools.<br><br>
 Persistence and determination alone are powerful.''*
-
-#### Connect with me at <img  src="https://img.shields.io/badge/linkedin-6633cc?style=for-the-badge&logo=linkedin&logoColor=white"> :purple_heart:
