@@ -1,24 +1,24 @@
-<img src="icons/banner.png">
+<img src="icons/banner2.png">
 <br />
 
 
 ---
 
-[![Linkedin Badge](https://img.shields.io/badge/-Patrick%20Morais-2C2C2C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-morais/)](https://www.linkedin.com/in/patrick-morais/)
-[![Gmail Badge](https://img.shields.io/badge/-ppternunes@gmail.com-2C2C2C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ppternunes@gmail.com)](mailto:ppternunes@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Patrick%20Morais-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-morais/)](https://www.linkedin.com/in/patrick-morais/)
+[![Gmail Badge](https://img.shields.io/badge/-ppternunes@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ppternunes@gmail.com)](mailto:ppternunes@gmail.com)
 
  I am a software developer who loves to create projects, practice and study the best web development technologies. 
 
  ### Languages and Frameworks
 
-<img align="left" src="https://img.shields.io/badge/Javascript-141414?style=for-the-badge&logo=javascript&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/React-141414?style=for-the-badge&logo=react&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/Next-141414?style=for-the-badge&logo=next.js&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/typescript-141414?style=for-the-badge&logo=typescript&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/Node-141414?style=for-the-badge&logo=node.js&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/Express-141414?style=for-the-badge&logo=express&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/mongodb-141414?style=for-the-badge&logo=mongodb&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/mysql-141414?style=for-the-badge&logo=mysql&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/Javascript-6633cc?style=for-the-badge&logo=javascript&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/React-6633cc?style=for-the-badge&logo=react&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/Next-6633cc?style=for-the-badge&logo=next.js&logoColor=white"><br /><br />
+<img align="left" src="https://img.shields.io/badge/typescript-6633cc?style=for-the-badge&logo=typescript&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/Node-6633cc?style=for-the-badge&logo=node.js&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/Express-6633cc?style=for-the-badge&logo=express&logoColor=white"><br /><br />
+<img align="left" src="https://img.shields.io/badge/mongodb-6633cc?style=for-the-badge&logo=mongodb&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/mysql-6633cc?style=for-the-badge&logo=mysql&logoColor=white">
 <br />
 <br />
 <br />
@@ -40,4 +40,4 @@ Education does not overcome.<br>
 The world is full of educated fools.<br><br>
 Persistence and determination alone are powerful.''*
 
-#### Connect with me at <img  src="https://img.shields.io/badge/linkedin-141414?style=for-the-badge&logo=linkedin&logoColor=white"> :black_heart:
+#### Connect with me at <img  src="https://img.shields.io/badge/linkedin-6633cc?style=for-the-badge&logo=linkedin&logoColor=white"> :black_heart:
