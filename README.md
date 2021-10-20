@@ -11,14 +11,14 @@
 
  ### Languages and Frameworks
 
-<img src="https://img.shields.io/badge/Javascript-6633cc?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/React-6633cc?style=for-the-badge&logo=react&logoColor=white"><br /><br />
-<img src="https://img.shields.io/badge/Next-6633cc?style=for-the-badge&logo=next.js&logoColor=white">
-<img src="https://img.shields.io/badge/typescript-6633cc?style=for-the-badge&logo=typescript&logoColor=white"><br /><br />
-<img src="https://img.shields.io/badge/Node-6633cc?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Express-6633cc?style=for-the-badge&logo=express&logoColor=white"><br /><br />
-<img src="https://img.shields.io/badge/mongodb-6633cc?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-6633cc?style=for-the-badge&logo=mysql&logoColor=white">
+![javascript](https://img.shields.io/badge/Javascript-6633cc?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-6633cc?style=for-the-badge&logo=react&logoColor=white)<br>
+![Next](https://img.shields.io/badge/Next-6633cc?style=for-the-badge&logo=next.js&logoColor=white)
+![typescript](https://img.shields.io/badge/typescript-6633cc?style=for-the-badge&logo=typescript&logoColor=white)<br>
+![Node](https://img.shields.io/badge/Node-6633cc?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-6633cc?style=for-the-badge&logo=express&logoColor=white)<br>
+![mongodb](https://img.shields.io/badge/mongodb-6633cc?style=for-the-badge&logo=mongodb&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-6633cc?style=for-the-badge&logo=mysql&logoColor=white)
 <br />
 <br />
 <br />
