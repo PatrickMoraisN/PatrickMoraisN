@@ -1,18 +1,24 @@
-# Patrick Morais
+<img src="icons/banner.png">
+<br />
+
 
 ---
-[![Linkedin Badge](https://img.shields.io/badge/-Patrick%20Morais-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-morais/)](https://www.linkedin.com/in/patrick-morais/)
-[![Gmail Badge](https://img.shields.io/badge/-ppternunes@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ppternunes@gmail.com)](mailto:ppternunes@gmail.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Patrick%20Morais-2C2C2C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-morais/)](https://www.linkedin.com/in/patrick-morais/)
+[![Gmail Badge](https://img.shields.io/badge/-ppternunes@gmail.com-2C2C2C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ppternunes@gmail.com)](mailto:ppternunes@gmail.com)
 
  I am a software developer who loves to create projects, practice and study the best web development technologies. 
 
  ### Languages and Frameworks
 
-<img align="left" src="icons/javascript.svg" />
-<img align="left" src="icons/react.svg" />
-<img align="left" src="icons/typescript.svg" />
-<img align="left" width="40" src="icons/next-js.svg" />
-<img align="left" src="icons/nodejs.svg" />
+<img align="left" src="https://img.shields.io/badge/Javascript-141414?style=for-the-badge&logo=javascript&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/React-141414?style=for-the-badge&logo=react&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/Next-141414?style=for-the-badge&logo=next.js&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/typescript-141414?style=for-the-badge&logo=typescript&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/Node-141414?style=for-the-badge&logo=node.js&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/Express-141414?style=for-the-badge&logo=express&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/mongodb-141414?style=for-the-badge&logo=mongodb&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/mysql-141414?style=for-the-badge&logo=mysql&logoColor=white">
 <br />
 <br />
 <br />
@@ -34,4 +40,4 @@ Education does not overcome.<br>
 The world is full of educated fools.<br><br>
 Persistence and determination alone are powerful.''*
 
-#### Connect with me at [LinkedIn!](https://www.linkedin.com/in/patrick-morais/) :purple_heart:
+#### Connect with me at <img  src="https://img.shields.io/badge/linkedin-141414?style=for-the-badge&logo=linkedin&logoColor=white"> :black_heart:
