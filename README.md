@@ -6,7 +6,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Patrick%20Morais-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-morais/)](https://www.linkedin.com/in/patrick-morais/)
 [![Gmail Badge](https://img.shields.io/badge/-ppternunes@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ppternunes@gmail.com)](mailto:ppternunes@gmail.com)
 
- I am a software developer who loves to create projects, practice and study the best web development technologies. 
+ I am a software developer who loves to create projects, practice and study the best web development technologies.
+
+ Currently Summer Analyst at Trybe.
 
  ### Languages and Frameworks
 
@@ -30,11 +32,4 @@
 
 ---
 
-*''Nothing in this world beats good persistence.<br>
-Talent doesn't.<br>
-Nothing more common than failed talents.<br>
-Genius can't beat.<br>
-Unrecognized genius is practically a cliché.<br>
-Education does not overcome.<br>
-The world is full of educated fools.<br><br>
-Persistence and determination alone are powerful.''*
+*"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."*
