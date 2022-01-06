@@ -8,7 +8,7 @@
 
  I am a software developer who loves to create projects, practice and study the best web development technologies.
 
- Currently Summer Analyst at Trybe.
+ Currently Full Stack Developer at [Remessa Online](https://www.remessaonline.com.br/).
 
  ### Languages and Frameworks
 
