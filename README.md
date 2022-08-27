@@ -1,5 +1,4 @@
 # Patrick Morais
-<br /><br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Patrick%20Morais-232526?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-morais/)](https://www.linkedin.com/in/patrick-morais/)
 [![Gmail Badge](https://img.shields.io/badge/-ppternunes@gmail.com-232526?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ppternunes@gmail.com)](mailto:ppternunes@gmail.com)
