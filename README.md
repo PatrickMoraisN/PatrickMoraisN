@@ -6,7 +6,7 @@
  Enthusiast of the best web development technologies.
 
  Passionate about coding and changing people's lives through programming. <br />
- Work experience with projects, software engineering: TypesScript, React, Next, Node..
+ Work experience with projects using TypesScript, React, Next, Node among other technologies
  
  
 _*"And you learn that you really can endure... that you really are strong, and can go much farther than you think you can not anymore. Our doubts are traitors and make us lose the good we could win if it were not afraid to try."*_
